@@ -4,8 +4,6 @@ This auth starter implements withAuthenticator HOC to provide a basic authentica
 
 [View Demo](https://master.d2ka7y7551sk8n.amplifyapp.com/)
 
-![Amplify Auth](src/images/auth.gif)
-
 ## Deploy with the AWS Amplify Console
 
 The AWS Amplify Console provides hosting for fullstack serverless web apps. [Learn more](https://console.amplify.aws). Deploy this app to your AWS account with a single click:
@@ -34,7 +32,7 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
   amplify pull
   ```
 
-![img](src/images/amplify-pull.mov)
+
 
 4. Run locally
 
